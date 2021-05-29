@@ -1,5 +1,9 @@
 ﻿# Josep Suggestions   
 
+.. image:: https://www.repostatus.org/badges/latest/wip.svg
+   :alt: Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.
+   :target: https://www.repostatus.org/#wip
+
 The aim of this repo is to create an app to visualise and analyse the best cuisine recommendations from Josep's list. 🍲 
 This project is developed using Python + R. 
 
@@ -54,7 +58,7 @@ The same if you want to activate the environment (this is done when you have alr
 
 ```R
 renv::activate()
-... 
+```
 
 
 **renv folder** 
@@ -62,5 +66,3 @@ renv::activate()
 renv folder is automatically created by renv package the first time the renv environment is initialized. There you have the local library and important files to make it work. 
 Do not touch them manually! 
 
-
-Work in Progress.
