@@ -1,8 +1,9 @@
 ﻿# Josep Suggestions   
 
-.. image:: https://www.repostatus.org/badges/latest/wip.svg
-   :alt: Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.
-   :target: https://www.repostatus.org/#wip
+<img src="https://www.repostatus.org/badges/latest/wip.svg"
+     alt="Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public."
+     target = "https://www.repostatus.org/#wip"
+     style="float: left; margin-right: 10px;" />
 
 The aim of this repo is to create an app to visualise and analyse the best cuisine recommendations from Josep's list. 🍲 
 This project is developed using Python + R. 
