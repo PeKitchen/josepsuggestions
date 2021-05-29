@@ -1,2 +1,5 @@
-# josepsuggestions
-Josep Suggestions - App to explore and visualize cuisine recommendations
+# Josep Suggestions   
+
+The aim of this repo is to create an app to visualise and analyse the best cuisine recommendations from Josep's list. 🍲 
+
+
