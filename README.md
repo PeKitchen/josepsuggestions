@@ -5,6 +5,9 @@
      target = "https://www.repostatus.org/#wip"
      style="float: left; margin-right: 10px;" />
 
+
+------------
+
 The aim of this repo is to create an app to visualise and analyse the best cuisine recommendations from Josep's list. 🍲 
 This project is developed using Python + R. 
 
